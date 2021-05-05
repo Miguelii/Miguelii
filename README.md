@@ -16,3 +16,8 @@
 - Cálculo de Programas
 - Sistemas Operativos - C
 - Laboratórios de Algoritmia II - Python
+
+
+### Terceiro ano
+
+- [Teoria de Números Computacional](https://github.com/Miguelii/TNC)
