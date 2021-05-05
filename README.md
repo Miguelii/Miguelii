@@ -13,5 +13,5 @@
 
 - [Sistemas de Comunicações e Redes](https://github.com/Miguelii/SCR)
 - [Programação Orientada a Objetos - Java](https://github.com/Miguelii/POO)
-- [Cálculo de Programas]()
-- [Sistemas Operativos - C]()
+- [Cálculo de Programas]
+- [Sistemas Operativos - C]
