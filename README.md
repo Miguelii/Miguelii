@@ -4,4 +4,4 @@
 
 ### Primeiro ano
 
-[Programaçao Funcional - Haskell] (https://github.com/Miguelii/PF/blob/main/README.md)
+[Programaçao Funcional - Haskell] (https://github.com/Miguelii/PF)
