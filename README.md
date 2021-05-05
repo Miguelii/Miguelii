@@ -23,3 +23,5 @@ ____________________________
 - [Teoria de Números Computacional](https://github.com/Miguelii/TNC)
 
 _________________
+
+Tenho tambem vários resusmos das cadeiras de matemática que posso fornecer, basta pedir
