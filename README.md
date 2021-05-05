@@ -5,9 +5,7 @@
 
 ### - Primeiro ano 
 
-[Programaçao Funcional - Haskell](https://github.com/Miguelii/PF)
-&nbsp;
-[Programação Imperativa - C](https://github.com/Miguelii/PI)
-&nbsp;
+[Programaçao Funcional - Haskell](https://github.com/Miguelii/PF)&nbsp;
+[Programação Imperativa - C](https://github.com/Miguelii/PI)&nbsp;
 [Laboratórios de Algoritmia I](https://github.com/Miguelii/Labs-de-Algoritmia-I)
 
