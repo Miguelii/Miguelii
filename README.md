@@ -22,5 +22,3 @@ ____________________________
 
 - [Teoria de Números Computacional](https://github.com/Miguelii/TNC)
 ____________________________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelii&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
