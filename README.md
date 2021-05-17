@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
 ____________________________
