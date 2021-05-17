@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Repositórios do curso Ciências da Computação na UMinho 💻
+### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
 ____________________________
 ### Primeiro ano 
 
