@@ -1,5 +1,10 @@
 # Hi there 👋
 
+![Miguel Gonçalves GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelii&show_icons=true&theme=radical)
+
+
+
+
 ### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
 ____________________________
 ### Primeiro ano 
