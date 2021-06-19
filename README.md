@@ -1,11 +1,5 @@
 # Hi there 👋
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 ### 💻 Repositórios do curso Ciências da Computação na UMinho 💻
 ____________________________
 ### Primeiro ano 
