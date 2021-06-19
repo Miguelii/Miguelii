@@ -1,8 +1,7 @@
 # Hi there 👋
 
 <a href="https://github.com/miguelii/github-readme-stats">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelii&layout=compact)](https://github.com/miguelii/github-readme-stats)
-" />
+  <img align="center" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelii&layout=compact)](https://github.com/miguelii/github-readme-stats) />
 </a>
 <a href="https://github.com/miguelii/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelii&repo=convoychat" />
