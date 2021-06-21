@@ -41,7 +41,7 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 
 
-<h2 align="left">💻 Repositórios do curso Ciências da Computação na UMinho 💻 </h2>
+<h2 align="left">💻 Repositórios do curso Ciências da Computação 💻 </h2>
 
 ### Primeiro ano 
 
