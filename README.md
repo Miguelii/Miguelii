@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there, I'm Paulo Costa 👋</h1>
+<h1 align="left"> Hi there 👋</h1>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=PaulinhoRDC.PaulinhoRDC)
 [![Github](https://img.shields.io/github/followers/PaulinhoRDC?label=Follow&style=social)](https://github.com/PaulinhoRDC)
