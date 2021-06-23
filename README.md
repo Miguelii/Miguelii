@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there 👋</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=PaulinhoRDC.PaulinhoRDC)
-[![Github](https://img.shields.io/github/followers/PaulinhoRDC?label=Follow&style=social)](https://github.com/PaulinhoRDC)
+![](https://visitor-badge.laobi.icu/badge?page_id=migueli.migueli)
+[![Github](https://img.shields.io/github/followers/migueli?label=Follow&style=social)](https://github.com/migueli)
 <br />
 <p>
 Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
