@@ -19,14 +19,6 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 <br />
 
-
-<br />
-<h2 align="left">📈 My GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelii&theme=dark&count_private=true&show_icons=true" alt="miguelii" width="50%"/>
-
-
-
 <h2 align="left">💻 Repositórios do curso Ciências da Computação 💻 </h2>
 
 ### Primeiro ano 
@@ -48,3 +40,11 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 - [Teoria de Números Computacional](https://github.com/Miguelii/TNC)
 ____________________________
+
+
+<br />
+<h2 align="left">📈 My GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelii&theme=dark&count_private=true&show_icons=true" alt="miguelii" width="50%"/>
+
+
