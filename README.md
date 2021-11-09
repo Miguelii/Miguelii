@@ -39,6 +39,8 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 ### Terceiro ano
 
 - [Teoria de Números Computacional](https://github.com/Miguelii/TNC)
+- [Lógica Computacional](https://github.com/Miguelii/LC)
+- Lógica Computacional (Projects)
 ____________________________
 
 
