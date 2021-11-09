@@ -25,7 +25,7 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 - [Programaçao Funcional - Haskell](https://github.com/Miguelii/PF)
 - [Programação Imperativa - C](https://github.com/Miguelii/PI)
-- [Laboratórios de Algoritmia I](https://github.com/Miguelii/Labs-de-Algoritmia-I)
+- [Laboratórios de Algoritmia I (Project)](https://github.com/Miguelii/Labs-de-Algoritmia-I)
 
 
 ### Segundo ano
