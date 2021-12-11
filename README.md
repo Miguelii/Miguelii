@@ -40,8 +40,10 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 - [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
 - [Lógica Computacional - Python](https://github.com/Miguelii/LC)
-- Lógica Computacional - Python (Projects)
-- Processamento de Linguagens e Compiladores - Python
+- Lógica Computacional - Python (Project)
+- Processamento de Linguagens e Compiladores - Python (Project)
+- [Base de Dados](https://github.com/Miguelii/BD)
+- Base de Dados (Project)
 ____________________________
 
 
