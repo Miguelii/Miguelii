@@ -48,6 +48,10 @@ ____________________________
 
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelii&layout=compact)](https://github.com/miguelii/github-readme-stats)
+
+
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelii&theme=dark&count_private=true&show_icons=true" alt="miguelii" width="50%"/>
