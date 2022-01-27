@@ -39,7 +39,7 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 ### Terceiro ano
 
-- [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
+- [Teoria de Números Computacional - Python (Project)](https://github.com/Miguelii/TNC)
 - [Lógica Computacional - Python](https://github.com/Miguelii/LC)
 - [Lógica Computacional - Python (Project)](https://github.com/Miguelii/LC-Projects)
 - [Processamento de Linguagens e Compiladores - Python (Project)](https://github.com/Miguelii/PLC-Projects)
