@@ -33,7 +33,6 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 - [Sistemas de Comunicações e Redes](https://github.com/Miguelii/SCR)
 - [Programação Orientada a Objetos - Java](https://github.com/Miguelii/POO)
 - [Programação Orientada a Objetos - Java (Project)](https://github.com/Miguelii/POO-Project)
-- [Algoritmos e Complexidade](https://github.com/Miguelii/AeC)
 - Sistemas Operativos - C
 
 
