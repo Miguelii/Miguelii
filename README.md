@@ -33,7 +33,8 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 - [Sistemas de Comunicações e Redes](https://github.com/Miguelii/SCR)
 - [Programação Orientada a Objetos - Java](https://github.com/Miguelii/POO)
 - [Programação Orientada a Objetos - Java (Project)](https://github.com/Miguelii/POO-Project)
-- Sistemas Operativos - C
+- [Sistemas Operativos - C](https://github.com/Miguelii/SO)
+- Sistemas Operativos - C (Project)
 
 
 ### Terceiro ano
@@ -45,6 +46,10 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 - [Processamento de Linguagens e Compiladores - Python (Project)](https://github.com/Miguelii/PLC-Projects)
 - [Base de Dados](https://github.com/Miguelii/BD)
 - [Base de Dados (Project)](https://github.com/Miguelii/BD-Project)
+- Computação Gráfica - C++
+- Computação Gráfica - C++ (Project)
+- Programação Concorrente - Java
+- Programação Concorrente - Java (Project)
 ____________________________
 
 
