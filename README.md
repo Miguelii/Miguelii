@@ -46,7 +46,6 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 - [Processamento de Linguagens e Compiladores - Python (Project)](https://github.com/Miguelii/PLC-Projects)
 - [Base de Dados](https://github.com/Miguelii/BD)
 - [Base de Dados (Project)](https://github.com/Miguelii/BD-Project)
-- Computação Gráfica - C++
 - Computação Gráfica - C++ (Project)
 - Programação Concorrente - Java
 - Programação Concorrente - Java (Project)
