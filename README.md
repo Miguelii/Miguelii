@@ -22,11 +22,17 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  <h2 align="left">🎓 University Projects</h2>
  
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
+ 
  [Programação Orientada aos Objetos - Java](https://github.com/Miguelii/POO-Project)
+ 
  [Processamento de Linguagens e Compiladores - Python](https://github.com/Miguelii/PLC-Projects)
+ 
  [Computação Gráfica - C++](https://github.com/Miguelii/CG-Project)
+ 
  [Sistemas Operativos - C](https://github.com/Miguelii/SO-Project)
+ 
  [Base de Dados - SQL](https://github.com/Miguelii/BD-Project)
+ 
  [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
  
  
