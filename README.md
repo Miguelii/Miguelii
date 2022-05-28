@@ -19,9 +19,9 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 <br/>
 
- <h2 align="left">📈 University Projects</h2>
+ <h2 align="left">🎓 University Projects</h2>
  
- 
+ [Computational Logic](https://github.com/Miguelii/LC-Projects)
  
  
  <br/>
