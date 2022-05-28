@@ -17,8 +17,15 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  <a href="mailto:miguelgoncalves18@hotmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<br />
+<br/>
 
+ <h2 align="left">📈 University Projects</h2>
+ 
+ 
+ 
+ 
+ <br/>
+ 
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelii&theme=dark&count_private=true&show_icons=true" alt="miguelii" width="50%"/>
