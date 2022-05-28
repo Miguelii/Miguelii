@@ -19,39 +19,6 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
 
 <br />
 
-<h2 align="left">💻 Repositórios do curso Ciências da Computação 💻 </h2>
-
-### Primeiro ano 
-
-- [Programaçao Funcional - Haskell](https://github.com/Miguelii/PF)
-- [Programação Imperativa - C](https://github.com/Miguelii/PI)
-- [Laboratórios de Algoritmia I - C (Project)](https://github.com/Miguelii/Labs-de-Algoritmia-I)
-
-
-### Segundo ano
-
-- [Sistemas de Comunicações e Redes (Project)](https://github.com/Miguelii/SCR)
-- [Programação Orientada a Objetos - Java](https://github.com/Miguelii/POO)
-- [Programação Orientada a Objetos - Java (Project)](https://github.com/Miguelii/POO-Project)
-- [Sistemas Operativos - C](https://github.com/Miguelii/SO)
-- Sistemas Operativos - C (Project)
-
-
-### Terceiro ano
-
-- [Teoria de Números Computacional - Python (Project)](https://github.com/Miguelii/TNC)
-- [Lógica Computacional - Python](https://github.com/Miguelii/LC)
-- [Lógica Computacional - Python (Project)](https://github.com/Miguelii/LC-Projects)
-- [Processamento de Linguagens e Compiladores - Python](https://github.com/Miguelii/PLC)
-- [Processamento de Linguagens e Compiladores - Python (Project)](https://github.com/Miguelii/PLC-Projects)
-- [Base de Dados](https://github.com/Miguelii/BD)
-- [Base de Dados (Project)](https://github.com/Miguelii/BD-Project)
-- Computação Gráfica - C++ (Project)
-- Programação Concorrente - Java (Project)
-____________________________
-
-
-<br />
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelii&theme=dark&count_private=true&show_icons=true" alt="miguelii" width="50%"/>
