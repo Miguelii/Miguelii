@@ -35,7 +35,7 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  
  [Base de Dados - SQL](https://github.com/Miguelii/BD-Project)
  
- [Projecto Final Hypatiamat - JavaScript]()
+ [Projecto Final Hypatiamat - JavaScript](https://github.com/Miguelii/Geometrix2)
  
 
 
