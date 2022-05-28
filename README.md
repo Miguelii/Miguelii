@@ -23,9 +23,11 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
  
- [Programação Orientada aos Objetos - Java](https://github.com/Miguelii/POO-Project)
+ [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
  
  [Processamento de Linguagens e Compiladores - Python](https://github.com/Miguelii/PLC-Projects)
+ 
+ [Programação Orientada aos Objetos - Java](https://github.com/Miguelii/POO-Project)
  
  [Computação Gráfica - C++](https://github.com/Miguelii/CG-Project)
  
@@ -33,9 +35,10 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  
  [Base de Dados - SQL](https://github.com/Miguelii/BD-Project)
  
- [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
+ [Projecto Final - Hypatiamat]()
  
- 
+
+
  <br/>
  
 <h2 align="left">📈 My GitHub Stats</h2>
