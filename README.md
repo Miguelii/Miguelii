@@ -1,4 +1,4 @@
-<h2 align="left">🎓 Uni Projects</h2>
+<h1 align="left">🎓 Uni Projects</h1>
  
  [Sistemas Operativos - C](https://github.com/Miguelii/SO-Project)
  
