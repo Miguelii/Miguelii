@@ -1,5 +1,7 @@
 <h1 align="left"> Hi there 👋</h1>
 
+Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho</a>
+
 <h2 align="left">🎓 University Projects</h2>
  
  [Sistemas Operativos - C](https://github.com/Miguelii/SO-Project)
