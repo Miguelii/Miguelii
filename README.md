@@ -24,7 +24,9 @@ Computer Science Student at <a href="https://www.uminho.pt/EN/Pages/default.aspx
  [Sistemas Operativos - C](https://github.com/Miguelii/SO-Project)
  
  [Programação Orientada aos Objetos - Java](https://github.com/Miguelii/POO-Project)
-  
+ 
+ [Programação Concorrente - Java/Erlang]()
+ 
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
  
  [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
