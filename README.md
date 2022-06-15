@@ -12,8 +12,6 @@
  
  [Processamento de Linguagens e Compiladores - Python](https://github.com/Miguelii/PLC-Projects)
  
- [Calculo de Programas - Haskell](https://github.com/Miguelii/uminho.CP-Project)
- 
  [Computação Gráfica - C++](https://github.com/Miguelii/CG-Project)
  
  [Base de Dados - SQL](https://github.com/Miguelii/BD-Project)
