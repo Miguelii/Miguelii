@@ -4,7 +4,7 @@
  
  [Programação Orientada aos Objetos - Java](https://github.com/Miguelii/POO-Project)
  
- [Programação Concorrente - Java/Erlang]()
+ [Programação Concorrente - Java/Erlang](https://github.com/Miguelii/uminho.PC-Project)
  
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
  
