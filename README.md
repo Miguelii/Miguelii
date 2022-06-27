@@ -6,6 +6,8 @@
  
  [Programação Concorrente - Java/Erlang](https://github.com/Miguelii/uminho.PC-Project)
  
+ [Calculo de Programas - Haskell](https://github.com/Miguelii/uminho.CP-Project)
+  
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
  
  [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
