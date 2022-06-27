@@ -8,6 +8,8 @@
  
  [Calculo de Programas - Haskell](https://github.com/Miguelii/uminho.CP-Project)
   
+ [Computação quântica] (https://github.com/Miguelii/uminho.IC-project)
+ 
  [Lógica Computacional - Python](https://github.com/Miguelii/LC-Projects)
  
  [Teoria de Números Computacional - Python](https://github.com/Miguelii/TNC)
