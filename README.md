@@ -25,6 +25,10 @@
  
 <h1 align="left">Other Projects</h1>
 
+[Next.js & React - The Complete Guide course](https://github.com/Miguelii/nextjs-course)
+
+[Full Stack Project - Project Board course](https://github.com/Miguelii/Project-Board-Course)
+
 
 <h2 align="left">📈 My GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelii&theme=dark&show_icons=true&locale=en&layout=compact" alt="miguelii" /></p>
