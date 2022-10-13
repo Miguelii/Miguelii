@@ -21,13 +21,6 @@
  [Base de Dados - SQL](https://github.com/Miguelii/BD-Project)
  
  [Projecto Final Hypatiamat - JavaScript](https://github.com/Miguelii/Geometrix2)
- 
- 
-<h1 align="left">Other Projects</h1>
-
-[Next.js & React - The Complete Guide course](https://github.com/Miguelii/nextjs-course)
-
-[Full Stack Project - Project Board course](https://github.com/Miguelii/Project-Board-Course)
 
 
 <h2 align="left">📈 My GitHub Stats</h2>
