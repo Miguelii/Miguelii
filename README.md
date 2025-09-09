@@ -5,7 +5,7 @@
 <br />
 <p>
 
-Software Engineer | Full Stack Developer @ <a href="https://www.cgi.com/portugal/pt-pt">CGI</a><br />
+Software Engineer @ <a href="https://www.blip.pt">Blip.pt</a> | <a href="https://www.fanduel.com/">FanDuel</a>
 
 Background in Computer Science from <a href="https://www.uminho.pt/EN/Pages/default.aspx">University of Minho (Braga - Portugal).</a>
  
