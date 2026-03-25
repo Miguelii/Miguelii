@@ -9,5 +9,5 @@ Background in Computer Science Engineering @ <a href="https://www.uminho.pt/EN/P
 <hr />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,supabase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs&perline=10" />
 </div>
