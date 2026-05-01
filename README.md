@@ -4,7 +4,7 @@ Background in Computer Science Engineering @ <a href="https://www.uminho.pt/EN/P
 
 ## Check out some cool stuff
 
-- **[BrewStockAI](https://brew-stock-ai.vercel.app)** — AI-powered stock analysis, for less than a coffee ☕.
+- **[BrewStockAI](https://brewstockai.com/)** — AI-powered stock analysis, for less than a coffee ☕.
 - **[miguel-goncalves](https://miguel-goncalves.pt)** — Personal Website, powered by Next.js & Sanity CMS.
 - **[Nuvē](https://nuve-cars.vercel.app/)** — Premium 3D cars showroom.
 
